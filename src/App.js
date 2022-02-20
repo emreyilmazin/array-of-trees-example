@@ -1,7 +1,7 @@
 import React, { useEffect } from "react";
-import { initializeTreeArray } from "array-of-trees";
 
 import "./App.css";
+import { initializeTreeArray } from "array-of-trees";
 
 function test() {
 	const randomSequence26 = [
