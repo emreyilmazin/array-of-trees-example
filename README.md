@@ -1,1 +1,3 @@
-Example for no-tree-array package
+## Example for npm package store-context
+
+https://www.npmjs.com/package/array-of-trees
